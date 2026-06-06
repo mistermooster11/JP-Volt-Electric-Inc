@@ -1173,7 +1173,7 @@
 .need-services {
   position: relative;
   background-color: var(--color-secondary);
-  background-image: url('/images/need-services-bg.png');
+  background-image: url('/images/need-services-bg.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
