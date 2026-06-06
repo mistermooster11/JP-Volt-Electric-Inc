@@ -6,9 +6,9 @@ import BlogSection from "@/components/custom/blog/BlogSection";
 import NeedServicesSection from "@/components/custom/need-services/NeedServicesSection";
 
 export const metadata: Metadata = {
-  title: "Blog — UnclogMe | Drain & Grease Trap Tips & Insights",
+  title: "Blog — JP Volt Electric Inc | Electrical Tips & Guides",
   description:
-    "Read UnclogMe's blog for expert tips on grease trap maintenance, drain unclogging, and keeping your residential or commercial plumbing in top shape.",
+    "Read JP Volt Electric's blog for expert tips on panel upgrades, EV chargers, smart home installation, and electrical safety for West Palm Beach homeowners.",
 };
 
 export default function BlogPage() {
@@ -16,7 +16,7 @@ export default function BlogPage() {
     <>
       <PageHeroSection bgImage="/images/masthead-blog.jpg"
         title="Blog"
-        subtitle="Expert tips, industry insights, and service guides from the UnclogMe team."
+        subtitle="Electrical tips, industry insights, and service guides from the JP Volt Electric team."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Blog" },
