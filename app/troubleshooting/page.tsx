@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function TroubleshootingPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-troubleshooting.jpg"
         title="Electrical Troubleshooting"
         subtitle="Fast electrical diagnosis and repair in West Palm Beach — tripping breakers, dead outlets, flickering lights, and electrical emergencies."
         breadcrumbs={[

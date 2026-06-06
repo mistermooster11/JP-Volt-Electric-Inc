@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 export default function ServicesPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-services.jpg"
         title="Our Services"
         subtitle="Licensed electrical services for homes and businesses in West Palm Beach and Palm Beach County — panel upgrades, EV chargers, smart home, wiring, and more."
         breadcrumbs={[

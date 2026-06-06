@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function ElectricalWiringPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-electrical-wiring.jpg"
         title="Electrical Wiring"
         subtitle="Licensed wiring services for residential and light commercial properties across West Palm Beach and Palm Beach County."
         breadcrumbs={[

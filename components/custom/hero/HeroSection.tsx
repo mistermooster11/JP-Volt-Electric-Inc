@@ -54,7 +54,7 @@ export default function HeroSection() {
       {/* Cloudflare Stream video background */}
       <div className="hero__video-bg">
         <iframe
-          src="https://customer-ip9lnkk65px0t3ak.cloudflarestream.com/10a72254efd26e29a46c14bb30b6c180/iframe?autoplay=true&muted=true&loop=true&controls=false&playsinline=true"
+          src="https://customer-ip9lnkk65px0t3ak.cloudflarestream.com/0965f4aa823891fe1bbfe76be29d7266/iframe?autoplay=true&muted=true&loop=true&controls=false&playsinline=true"
           style={{
             position: "absolute",
             top: "50%",

@@ -349,12 +349,12 @@
   overflow: hidden;
 }
 
-/* Background image */
+/* Background image — overridden per-page via --page-hero-bg CSS variable */
 .page-hero::before {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("/wp-assets/Title-Background-Image-scaled.webp");
+  background-image: var(--page-hero-bg, url("/images/masthead-services.jpg"));
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;

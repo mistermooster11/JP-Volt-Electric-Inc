@@ -49,4 +49,17 @@ export const pricingCards: PricingCard[] = [
     description:
       "Upgrade your electrical panel to 200-amp service. We handle permits, the work, and the final inspection sign-off.",
   },
+  {
+    price: 199,
+    note: "Free estimate included",
+    title: "Lighting Installation",
+    features: [
+      "Recessed & fixture installation",
+      "Ceiling fan wiring",
+      "Dimmer switch installation",
+      "Indoor & outdoor lighting",
+    ],
+    description:
+      "Interior and exterior lighting upgrades — recessed cans, ceiling fans, dimmers, landscape lighting, and more.",
+  },
 ];

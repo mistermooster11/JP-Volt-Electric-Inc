@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function SecurityCamerasPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-security-cameras.jpg"
         title="Security Cameras"
         subtitle="Hardwired security camera and home surveillance installation in West Palm Beach — professional electrical work for lasting, reliable protection."
         breadcrumbs={[

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function LightingPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-lighting.jpg"
         title="Lighting Installation"
         subtitle="Indoor and outdoor lighting installation for homes and businesses in West Palm Beach — recessed lighting, fixtures, and commercial upgrades."
         breadcrumbs={[

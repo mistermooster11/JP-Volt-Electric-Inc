@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="footer__brand">
           <Link href="/">
             <Image
-              src="/images/logo-image-50.png"
+              src="/JP_Volt_Logo_DarkBG.png"
               alt="JP Volt Electric Inc Logo"
               width={239}
               height={58}

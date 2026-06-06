@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 export default function FAQPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-faq.jpg"
         title="Frequently Asked Questions"
         subtitle="Common questions about our electrical services, licensing, pricing, and service area in West Palm Beach and Palm Beach County."
         breadcrumbs={[

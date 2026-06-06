@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-about.jpg"
         title="About Us"
         subtitle="Licensed electrical contractor serving West Palm Beach and Palm Beach County — over 10 years of professional electrical work guided by the NEC."
         breadcrumbs={[

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function MeterPanelPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-meter-panel.jpg"
         title="Meter Panel Upgrade"
         subtitle="200-amp service upgrades for West Palm Beach homes and businesses — fully permitted, inspected, and code-compliant."
         breadcrumbs={[

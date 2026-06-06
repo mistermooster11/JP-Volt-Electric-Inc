@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function SmartHomePage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-smart-home.jpg"
         title="Smart Home Automation"
         subtitle="Smart home installation and wiring in West Palm Beach — lighting automation, smart thermostats, security integration, and energy control."
         breadcrumbs={[

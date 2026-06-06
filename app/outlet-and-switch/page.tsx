@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function OutletAndSwitchPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-outlet-and-switch.jpg"
         title="Outlet & Switch"
         subtitle="Outlet and switch installation, replacement, and repair in West Palm Beach — GFCI, AFCI, 240V heavy-duty, and smart outlets."
         breadcrumbs={[

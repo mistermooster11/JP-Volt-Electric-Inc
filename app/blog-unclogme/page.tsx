@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 export default function BlogPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-blog.jpg"
         title="Blog"
         subtitle="Expert tips, industry insights, and service guides from the UnclogMe team."
         breadcrumbs={[

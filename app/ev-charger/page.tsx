@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function EvChargerPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-ev-charger.jpg"
         title="EV Charger Installation"
         subtitle="Level 2 home EV charger installation in West Palm Beach and Palm Beach County — dedicated circuit, permit included, inspection-ready."
         breadcrumbs={[

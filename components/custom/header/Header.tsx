@@ -66,7 +66,7 @@ export default function Header() {
         <div className="header__logo">
           <Link href="/">
             <Image
-              src="/logo.png"
+              src="/JP_Volt_Logo_LightBG.png"
               alt="JP Volt Electric Inc"
               width={200}
               height={44}

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 export default function LandscapeLightingPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-landscape-lighting.jpg"
         title="Landscape Lighting"
         subtitle="Low-voltage outdoor and landscape lighting installation in West Palm Beach — pathways, garden features, and perimeter security lighting."
         breadcrumbs={[

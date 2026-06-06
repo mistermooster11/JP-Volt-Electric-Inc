@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 export default function ContactPage() {
   return (
     <>
-      <PageHeroSection
+      <PageHeroSection bgImage="/images/masthead-contact.jpg"
         title="Contact Us"
         subtitle="Request a free estimate for any electrical project in West Palm Beach or Palm Beach County. Call us or fill out the form."
         breadcrumbs={[
